@@ -2,7 +2,7 @@
 
 End-to-end data science and machine learning project for heart disease risk prediction using the notebook:
 
-- `Heart_Disease_Pipeline.ipynb`
+- `Heart_Disease_Project.ipynb`
 
 The notebook covers full analysis from data loading and EDA to model training, evaluation, feature importance, risk scoring, and cross-validation.
 
